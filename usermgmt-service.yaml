@@ -11,4 +11,4 @@ spring:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
       ddl-auto: none
 server:
-  port: '8083'
+  port: '8080'
